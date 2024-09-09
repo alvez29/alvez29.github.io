@@ -1,3 +1,3 @@
 # welcome!
 
-This is a custom blog for documtation of Renegade Jammer project
+This is a custom blog for documentation of Renegade Jammer project
